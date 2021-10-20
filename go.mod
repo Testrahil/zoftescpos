@@ -1,4 +1,4 @@
-module zoftescpos
+module github.com/rahil7376/thermalpos
 
 go 1.17
 
